@@ -1,0 +1,10 @@
+tasks:
+  Get Week Number:
+    shell: python -m robot tasks.robot
+
+artifactsDir: output
+condaConfigFile: conda.yaml
+PATH:
+  - "."
+PYTHONPATH:
+  - "." 

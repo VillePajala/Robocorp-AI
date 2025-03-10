@@ -1,0 +1,14 @@
+# Robocorp output files
+output/
+*.log
+log.html
+report.html
+output.xml
+week_number.txt
+.vscode/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/ 
