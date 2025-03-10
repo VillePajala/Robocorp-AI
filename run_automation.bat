@@ -1,0 +1,3 @@
+@echo off
+echo Starting VR Train Schedule Automation...
+python run_with_selectors.py %* 

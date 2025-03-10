@@ -1,0 +1,3 @@
+@echo off
+echo Starting VR Train Schedule Selector Helper...
+python selector_helper.py 

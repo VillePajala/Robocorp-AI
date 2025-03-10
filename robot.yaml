@@ -1,6 +1,6 @@
 tasks:
-  Get Week Number:
-    shell: python -m robot tasks.robot
+  VR Train Schedule:
+    shell: python -m robot -d output --logtitle "VR Train Schedule Log" tasks.robot
 
 artifactsDir: output
 condaConfigFile: conda.yaml

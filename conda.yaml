@@ -8,4 +8,8 @@ dependencies:
       - rpaframework==22.5.3
       - robotframework==5.0.1
       - robotframework-browser==18.0.0
-      - robotframework-seleniumlibrary==6.2.0 
+      - robotframework-seleniumlibrary==6.2.0
+      - playwright
+      - pdfkit
+      - beautifulsoup4
+      - jinja2 
